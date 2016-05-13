@@ -23,4 +23,14 @@
 3. [Java开发远程协助监控系统](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%E6%BD%AD%E5%B7%9E%E5%AD%A6%E9%99%A2%2FJava%E5%BC%80%E5%8F%91%E8%BF%9C%E7%A8%8B%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E3%80%90%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E9%A1%B6%E5%B0%96%E6%8A%80%E6%9C%AF%E3%80%91%20-%20Arry%E8%80%81%E5%B8%88&vmode=undefined)
 4. [蓝桥QQ](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%E8%93%9D%E6%A1%A5QQ)
 
+## 推荐软件
+1. [JDK](http://pan.baidu.com/disk/home#list/vmode=undefined&path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FSoftWare%2F%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%2FJava%E8%BD%AF%E4%BB%B6%2FJDK)
+2. [eclipse for JavaEE](http://pan.baidu.com/disk/home#list/vmode=undefined&path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FSoftWare%2F%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%2FJava%E8%BD%AF%E4%BB%B6%2Feclipse%20v4.4.2)
+3. [chrome谷歌浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
+4. [UltraEdit](http://pan.baidu.com/disk/home#list/vmode=undefined&path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FSoftWare%2F%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%2F%E4%BB%A3%E7%A0%81%E7%BC%96%E5%86%99%E8%BD%AF%E4%BB%B6)
+  `不一定好用，记笔记的话，建议使用**为知笔记**`
+5. [Navicat图形化mysql客户端](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%E7%AC%94%E8%AE%B0%2FDataBase%E7%AC%94%E8%AE%B0%2FMySQL%E7%AC%94%E8%AE%B0%2F%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%2FNavicat&vmode=undefined)
+6. [截图工具FSCapture](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FSoftWare%2F%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6%2F%E6%88%AA%E5%9B%BE%E5%92%8C%E5%BD%95%E5%88%B6%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6&vmode=undefined)
+7. [思维导图网页版ProcessOn(超好用)](https://www.processon.com/tour)
+
 (当然资源不可能就这点，但是凡事必须一步步的来，建议先看强烈推荐的^_^)
