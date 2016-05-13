@@ -1,7 +1,7 @@
 # Java视频资源
 
 ## 基础(SE+WEB)
-1. [极客学院Java](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%5Bfuli.ba%5D%E6%9E%81%E5%AE%A2%E5%AD%A6%E9%99%A2%2F%5Bfuli.ba%5D%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%9B%BE%2F13%E3%80%81Java%20Web)
+1. [极客学院Java](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%5Bfuli.ba%5D%E6%9E%81%E5%AE%A2%E5%AD%A6%E9%99%A2%2F%5Bfuli.ba%5D%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%9B%BE%2F13%E3%80%81Java%20Web){:target="_blank"}
 2. [郝斌Java(强烈推荐)](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2F%E9%83%9D%E6%96%8C%2F%E9%83%9D%E6%96%8C%E5%85%A8%E5%A5%97C%E8%AF%AD%E8%A8%80%2BSQL2005%2BJAVA%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%2FJAVA%E9%83%9D%E6%96%8C)
 3. [兄弟连Java(强烈推荐)](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FOther%2F%E5%85%84%E5%BC%9F%E8%BF%9EJava%E3%80%81Android%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E6%89%93%E5%8C%85%E4%B8%8B%E8%BD%BD%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89)
 4. [Java1234](http://pan.baidu.com/disk/home#list/path=%2F1221%E6%95%B4%E7%90%86%2FImportant%2FOther%2F%5Bwww.dev1234.com%5D%E4%B8%80%E5%A4%B4%E6%89%8E%E8%BF%9BJ2SE%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)
